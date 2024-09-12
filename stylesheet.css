@@ -1,0 +1,26 @@
+body {
+    background-color: lightpink;
+}
+
+img {
+    max-height: 256px;
+    max-width: 256px;
+    padding-right: 16px;
+    padding-left: 16px;
+}
+h1 {
+    text-shadow: 1px 1px 2px black, 0 0 1em red, 0 0 0.2em red;
+    color: white;
+    text-align: center;
+    filter: grayscale(0.5);
+}
+
+h4 {
+    padding-left: 32px;
+    color: red;
+    font-size: 150%
+}
+
+h5 {
+    color: gray;
+}
